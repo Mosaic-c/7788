@@ -1,3 +1,5 @@
+# adult
+
 .javbus.com
 .mushroomtrack.com
 .qooqlevideo.com
@@ -18,3 +20,11 @@
 .t66y.com
 .xvideos.com
 .kdw019.com
+
+# media
+
+.www.blueseamusics.com
+.nebula-emby.com
+.bsem.ddns.me
+.free.the98.ltd
+.cf3.misakaf.org
