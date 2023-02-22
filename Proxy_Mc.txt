@@ -1,6 +1,7 @@
 # adult
 
 .javbus.com
+.javbus22.com
 .mushroomtrack.com
 .qooqlevideo.com
 .avgle.com
