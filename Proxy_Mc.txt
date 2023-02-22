@@ -1,6 +1,7 @@
 # adult
 
 .javbus.com
+.poweredby.jads.co
 .javbus22.com
 .mushroomtrack.com
 .qooqlevideo.com
