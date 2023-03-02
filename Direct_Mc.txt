@@ -4,4 +4,3 @@
 .cjeb.nxnow.top
 .emby-pub1.blueseacdn.com
 .cflix.acemby.org
-.play.acemby.org
