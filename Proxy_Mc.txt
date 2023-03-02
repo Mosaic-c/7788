@@ -1,4 +1,4 @@
-# adult
+### adult
 
 .javbus.com
 .poweredby.jads.co
@@ -23,11 +23,19 @@
 .xvideos.com
 .kdw019.com
 
-# media
+### media
 
+# BlueSea-Music
 .www.blueseamusics.com
+
+# Nebula
 .nebula-emby.com
+
+# BlueSea-Emby
 .bsem.ddns.me
-.free.the98.ltd
+
+# MisakaF
 .cf3.misakaf.org
+
+# ACEmby
 .play.acemby.org
