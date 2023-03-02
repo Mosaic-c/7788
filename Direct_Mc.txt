@@ -4,3 +4,4 @@
 .cjeb.nxnow.top
 .emby-pub1.blueseacdn.com
 .cflix.acemby.org
+.cdn.misakaf.org
