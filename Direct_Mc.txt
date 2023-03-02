@@ -1,7 +1,15 @@
-
+# 蓝鲸体育
 .www.ppxia.live
+
+# 星云反代
 .jpy.semitelecom.net
 .cjeb.nxnow.top
+
+# BlueSea
 .emby-pub1.blueseacdn.com
+
+# ACEmby-cdn
 .cflix.acemby.org
+
+# MisakaF-cdn
 .cdn.misakaf.org
