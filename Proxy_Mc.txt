@@ -39,3 +39,6 @@
 
 # ACEmby
 .play.acemby.org
+
+# Infinityfly
+.infinityfly.top
