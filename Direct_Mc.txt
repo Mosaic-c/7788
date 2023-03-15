@@ -6,7 +6,7 @@
 .cjeb.nxnow.top
 
 # BlueSea
-.emby-pub1.blueseacdn.com
+.bluesea.ddns.me
 
 # ACEmby-cdn
 .cflix.acemby.org
