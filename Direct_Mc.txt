@@ -14,5 +14,3 @@
 # MisakaF-cdn
 .cdn.misakaf.org
 
-# Mulgore
-.202.61.255.248
