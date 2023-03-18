@@ -14,3 +14,6 @@
 # MisakaF-cdn
 .cdn.misakaf.org
 
+# Mulgore
+.one.mulgore.net
+.two.mulgore.net
