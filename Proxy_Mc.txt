@@ -43,3 +43,5 @@
 # Infinityfly
 .infinityfly.top
 
+# Mulgore
+.one.mulgore.net
