@@ -43,5 +43,3 @@
 # Infinityfly
 .infinityfly.top
 
-# Mulgore
-.202.61.255.248
