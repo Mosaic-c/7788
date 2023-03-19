@@ -16,3 +16,6 @@
 
 # Mulgore
 .two.mulgore.net
+
+# NMEmby
+.film.goodisp.org
