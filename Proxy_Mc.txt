@@ -45,3 +45,6 @@
 
 # Mulgore
 .one.mulgore.net
+
+# NMEmby
+.film.chinaisp.org
