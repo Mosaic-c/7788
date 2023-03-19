@@ -1,6 +1,9 @@
 # 蓝鲸体育
 .www.ppxia.live
 
+# 爱游体育
+.ayty007.com
+
 # 星云反代
 .jpy.semitelecom.net
 .cjeb.nxnow.top
