@@ -5,7 +5,6 @@
 .ayty007.com
 
 # 星云反代
-.jpy.semitelecom.net
 .cjeb.nxnow.top
 
 # BlueSea
