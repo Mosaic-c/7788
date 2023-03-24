@@ -21,3 +21,6 @@
 
 # NMEmby
 .film.goodisp.org
+
+# FreeEMBY
+.1.4545.cf
