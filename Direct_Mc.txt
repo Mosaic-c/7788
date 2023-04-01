@@ -9,6 +9,7 @@
 
 # BlueSea
 .bluesea.ddns.me
+.bsyid.otoou.com
 
 # ACEmby-cdn
 .cflix.acemby.org
