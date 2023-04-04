@@ -48,3 +48,7 @@
 
 # NMEmby
 .film.chinaisp.org
+
+# Peach
+.jp.embymv.tk
+.kr.embymv.tk
