@@ -1,30 +1,30 @@
 # 蓝鲸体育
-.www.ppxia.live
+DOMAIN,www.ppxia.live
 
 # 爱游体育
-.ayty007.com
+DOMAIN-SUFFIX,ayty007.com
 
 # 星云反代
-.cjeb.nxnow.top
+DOMAIN,cjeb.nxnow.top
 
 # BlueSea
-.bluesea.ddns.me
-.bsyid.otoou.com
+DOMAIN,bluesea.ddns.me
+DOMAIN,bsyid.otoou.com
 
 # ACEmby-cdn
-.cflix.acemby.org
+DOMAIN,cflix.acemby.org
 
 # MisakaF-cdn
-.cdn.misakaf.org
+DOMAIN,cdn.misakaf.org
 
 # Mulgore
-.two.mulgore.net
+DOMAIN,two.mulgore.net
 
 # NMEmby
-.film.goodisp.org
+DOMAIN,film.goodisp.org
 
 # FreeEMBY
-.1.4545.cf
+DOMAIN,1.4545.cf
 
 # Peach
-.embymv.tk
+DOMAIN,embymv.tk
