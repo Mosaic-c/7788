@@ -25,3 +25,6 @@
 
 # FreeEMBY
 .1.4545.cf
+
+# Peach
+.embymv.tk
