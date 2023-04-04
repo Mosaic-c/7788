@@ -1,54 +1,54 @@
 ### adult
 
-.javbus.com
-.poweredby.jads.co
-.javbus22.com
-.mushroomtrack.com
-.qooqlevideo.com
-.avgle.com
-.missav.com
-.thisiscdn.com
-.javdb.com
-.netflav.com
-.akamai-cdn-content.com
-.javlibrary.com
-.jable.tv
-.jav.guru
-.javsts.com
-.akamai-cdn-content.com
-.dmm.co.jp
-.91porn.com
-.pornhub.com
-.t66y.com
-.xvideos.com
-.kdw019.com
+DOMAIN-SUFFIX,javbus.com
+DOMAIN-SUFFIX,poweredby.jads.co
+DOMAIN-SUFFIX,javbus22.com
+DOMAIN-SUFFIX,mushroomtrack.com
+DOMAIN-SUFFIX,qooqlevideo.com
+DOMAIN-SUFFIX,avgle.com
+DOMAIN-SUFFIX,missav.com
+DOMAIN-SUFFIX,thisiscdn.com
+DOMAIN-SUFFIX,javdb.com
+DOMAIN-SUFFIX,netflav.com
+DOMAIN-SUFFIX,akamai-cdn-content.com
+DOMAIN-SUFFIX,javlibrary.com
+DOMAIN-SUFFIX,jable.tv
+DOMAIN-SUFFIX,jav.guru
+DOMAIN-SUFFIX,javsts.com
+DOMAIN-SUFFIX,akamai-cdn-content.com
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,91porn.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,t66y.com
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,kdw019.com
 
 ### media
 
 # BlueSea-Music
-.www.blueseamusics.com
+DOMAIN,www.blueseamusics.com
 
 # Nebula
-.nebula-emby.com
+DOMAIN,nebula-emby.com
 
 # BlueSea-Emby
-.bsem.ddns.me
+DOMAIN,bsem.ddns.me
 
 # MisakaF
-.cf3.misakaf.org
+DOMAIN,cf3.misakaf.org
 
 # ACEmby
-.play.acemby.org
+DOMAIN,play.acemby.org
 
 # Infinityfly
-.infinityfly.top
+DOMAIN,infinityfly.top
 
 # Mulgore
-.one.mulgore.net
+DOMAIN,one.mulgore.net
 
 # NMEmby
-.film.chinaisp.org
+DOMAIN,film.chinaisp.org
 
 # Peach
-.jp.embymv.tk
-.kr.embymv.tk
+DOMAIN,jp.embymv.tk
+DOMAIN,kr.embymv.tk
