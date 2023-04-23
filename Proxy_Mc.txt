@@ -29,8 +29,7 @@ DOMAIN-SUFFIX,kdw019.com
 DOMAIN,www.blueseamusics.com
 
 # Nebula
-DOMAIN,web.nebula-emby.com
-DOMAIN,direct.nebula-emby.com
+DOMAIN-SUFFIX,nebula-emby.com
 
 # BlueSea-Emby
 DOMAIN,bsem.ddns.me
