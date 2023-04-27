@@ -35,9 +35,6 @@ DOMAIN-SUFFIX,nebula-emby.com
 # BlueSea-Emby
 DOMAIN,bsem.ddns.me
 
-# MisakaF
-DOMAIN,cf3.misakaf.org
-
 # ACEmby
 DOMAIN,play.acemby.org
 
