@@ -50,3 +50,6 @@ DOMAIN,film.chinaisp.org
 # Peach
 DOMAIN,jp.embymv.tk
 DOMAIN,kr.embymv.tk
+
+# jugou
+DOMAIN,ju.dog
