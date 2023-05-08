@@ -41,8 +41,8 @@ DOMAIN,play.acemby.org
 # Infinityfly
 DOMAIN,infinityfly.top
 
-# MisakaF
-DOMAIN,emby.misakaf.org
+# MisakaF-cdn
+DOMAIN,cdn.misakaf.org
 
 # Mulgore
 DOMAIN,one.mulgore.net
