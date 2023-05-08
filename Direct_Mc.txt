@@ -15,7 +15,7 @@ DOMAIN,bsyid.otoou.com
 DOMAIN,cflix.acemby.org
 
 # MisakaF
-DOMAIN,cdn.misakaf.org
+DOMAIN,emby.misakaf.org
 
 # Mulgore
 DOMAIN,two.mulgore.net
