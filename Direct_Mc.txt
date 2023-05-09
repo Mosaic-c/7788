@@ -1,8 +1,4 @@
-# 蓝鲸体育
-DOMAIN,www.ppxia.live
 
-# 爱游体育
-DOMAIN-SUFFIX,ayty007.com
 
 # 星云反代
 DOMAIN,cjeb.nxnow.top
