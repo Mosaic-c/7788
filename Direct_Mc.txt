@@ -2,7 +2,7 @@
 DOMAIN,www.ppxia.live
 
 # 爱游体育
-DOMAIN-SUFFIX,ayty007.com
+DOMAIN-SUFFIX,www.souqiuty.com
 
 # 星云反代
 DOMAIN,cjeb.nxnow.top
