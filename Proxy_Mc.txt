@@ -56,3 +56,6 @@ DOMAIN,kr.embymv.tk
 
 # jugou
 DOMAIN,ju.dog
+
+# Dolphin
+DOMAIN,public.emby.ws
