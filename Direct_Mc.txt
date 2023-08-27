@@ -1,5 +1,6 @@
 # 蓝鲸体育
 DOMAIN,www.ppxia.live
+DOMAIN,www.lanjingtiyu.com
 
 # 爱游体育
 DOMAIN-SUFFIX,www.souqiuty.com
