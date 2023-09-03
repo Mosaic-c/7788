@@ -32,3 +32,8 @@ DOMAIN,emby.mius.uk
 
 # TreeDiagram
 DOMAIN,789.123456.al
+
+# Dolphin Emby
+DOMAIN,ct.emby.ws
+DOMAIN,cu.emby.ws
+DOMAIN,cm.emby.ws
