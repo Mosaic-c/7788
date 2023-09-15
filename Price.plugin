@@ -1,6 +1,6 @@
 #!name=京东淘宝-比价
 #!desc=京东淘宝历史价格比较
-#!icon=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/2icon.png
+#!icon=https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute1/1689356.png
 
 [MITM]
 hostname = trade-acs.m.taobao.com,api.m.jd.com
