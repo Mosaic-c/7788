@@ -1,28 +1,15 @@
 # 蓝鲸体育
-DOMAIN,www.ppxia.live
-DOMAIN,www.lanjingtiyu.com
+DOMAIN-SUFFIX,ppxia.live
+DOMAIN-SUFFIX,lanjingtiyu.com
 
 # 爱游体育
-DOMAIN-SUFFIX,www.souqiuty.com
-
-# 星云反代
-DOMAIN,cjeb.nxnow.top
-
-# BlueSea
-DOMAIN,bluesea.ddns.me
-DOMAIN,bsyid.otoou.com
-
-# ACEmby-cdn
-DOMAIN,cflix.acemby.org
+DOMAIN-SUFFIX,souqiuty.com
 
 # MisakaF
 DOMAIN,emby.misakaf.org
 
 # Mulgore
 DOMAIN,two.mulgore.net
-
-# NMEmby
-DOMAIN,film.goodisp.org
 
 # FreeEMBY
 DOMAIN,1.4545.cf
@@ -32,8 +19,3 @@ DOMAIN,emby.mius.uk
 
 # TreeDiagram
 DOMAIN,789.123456.al
-
-# Dolphin Emby
-DOMAIN,ct.emby.ws
-DOMAIN,cu.emby.ws
-DOMAIN,cm.emby.ws
