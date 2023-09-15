@@ -26,39 +26,16 @@ DOMAIN-SUFFIX,akamai-content-network.com
 
 ### media
 
-# BlueSea-Music
-DOMAIN,www.blueseamusics.com
-
-# Nebula
-DOMAIN-SUFFIX,nebula-emby.com
-
-# BlueSea-Emby
-DOMAIN,bsem.ddns.me
-
-# ACEmby
-DOMAIN,play.acemby.org
-
-# Infinityfly
-DOMAIN,infinityfly.top
-
 # MisakaF-cdn
 DOMAIN,cdn.misakaf.org
 
 # Mulgore
 DOMAIN,one.mulgore.net
 
-# NMEmby
-DOMAIN,film.chinaisp.org
-
 # Peach
 DOMAIN,jp.embymv.tk
 DOMAIN,kr.embymv.tk
+DOMAIN,embymv.tk
 
 # jugou
 DOMAIN,ju.dog
-
-# Dolphin
-DOMAIN,public.emby.ws
-
-# Peach
-DOMAIN,embymv.tk
