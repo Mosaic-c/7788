@@ -1,21 +1,27 @@
-# 蓝鲸体育
+# > Duolingo
+USER-AGENT,Duolingo*
+DOMAIN-KEYWORD,duolingo
+DOMAIN-SUFFIX,duolingo.cn
+DOMAIN-SUFFIX,duolingo.com
+
+# > 蓝鲸体育
 DOMAIN-SUFFIX,ppxia.live
 DOMAIN-SUFFIX,lanjingtiyu.com
 
-# 爱游体育
+# > 爱游体育
 DOMAIN-SUFFIX,souqiuty.com
 
-# MisakaF
+# > MisakaF
 DOMAIN,emby.misakaf.org
 
-# Mulgore
+# > Mulgore
 DOMAIN,two.mulgore.net
 
-# FreeEMBY
+# > FreeEMBY
 DOMAIN,1.4545.cf
 
-# WIN-DGPJORTAEFA
+# > WIN-DGPJORTAEFA
 DOMAIN,emby.mius.uk
 
-# TreeDiagram
+# > TreeDiagram
 DOMAIN,789.123456.al
