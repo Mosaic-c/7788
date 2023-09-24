@@ -8,8 +8,9 @@ DOMAIN-SUFFIX,duolingo.com
 DOMAIN-SUFFIX,ppxia.live
 DOMAIN-SUFFIX,lanjingtiyu.com
 
-# > 爱游体育
+# > 爱游体育/搜球
 DOMAIN-SUFFIX,souqiuty.com
+DOMAIN-SUFFIX,sq33.tv
 
 # > MisakaF
 DOMAIN,emby.misakaf.org
