@@ -12,6 +12,11 @@ DOMAIN-SUFFIX,lanjingtiyu.com
 DOMAIN-SUFFIX,souqiuty.com
 DOMAIN-SUFFIX,sq33.tv
 
+# > 海星体育
+DOMAIN-SUFFIX,gxdehai.cn
+DOMAIN-SUFFIX,hwego.tv
+DOMAIN-SUFFIX,hwego.live
+
 # > MisakaF
 DOMAIN,emby.misakaf.org
 
