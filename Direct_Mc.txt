@@ -4,10 +4,6 @@ DOMAIN-KEYWORD,duolingo
 DOMAIN-SUFFIX,duolingo.cn
 DOMAIN-SUFFIX,duolingo.com
 
-# > FaceTime
-IP-CIDR,17.242.0.0/15
-IP-CIDR,17.252.160.0/19
-
 # > 蓝鲸体育
 DOMAIN-SUFFIX,ppxia.live
 DOMAIN-SUFFIX,lanjingtiyu.com
