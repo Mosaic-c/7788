@@ -26,8 +26,5 @@ DOMAIN,two.mulgore.net
 # > FreeEMBY
 DOMAIN,1.4545.cf
 
-# > WIN-DGPJORTAEFA
-DOMAIN,emby.mius.uk
-
 # > TreeDiagram
 DOMAIN,789.123456.al
