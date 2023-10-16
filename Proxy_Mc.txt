@@ -39,3 +39,6 @@ DOMAIN,embymv.tk
 
 # jugou
 DOMAIN,ju.dog
+
+# WIN-DGPJORTAEFA
+DOMAIN,emby.mius.uk
