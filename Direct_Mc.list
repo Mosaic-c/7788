@@ -28,3 +28,15 @@ DOMAIN,1.4545.cf
 
 # > TreeDiagram
 DOMAIN,789.123456.al
+
+# Downloader
+PROCESS-NAME,Weiyun
+
+# 罗技Options
+PROCESS-NAME,Logi Options
+PROCESS-NAME,Logi Options Daemon
+
+# bt
+DOMAIN-KEYWORD,yunpan
+DOMAIN-KEYWORD,XLLiveUD
+URL-REGEX,(torrent|announce.php\?passkey=|tracker|BitTorrent|bt_key|ed2k|find_node|get_peers|info_hash|magnet:|peer_id=)
