@@ -1,5 +1,13 @@
 # > 澳门演出
+
 # 威尼斯人
 DOMAIN-SUFFIX,sandsresortsmacao.cn
 # 金光票务
 DOMAIN-SUFFIX,cotaiticketing.com
+
+# > Duolingo
+
+DOMAIN-SUFFIX,duolingo.cn
+DOMAIN-SUFFIX,duolingo.com
+DOMAIN-KEYWORD,duolingo
+USER-AGENT,Duolingo*
