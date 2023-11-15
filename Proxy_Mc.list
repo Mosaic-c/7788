@@ -9,5 +9,5 @@ DOMAIN-SUFFIX,cotaiticketing.com
 
 DOMAIN-SUFFIX,duolingo.cn
 DOMAIN-SUFFIX,duolingo.com
-DOMAIN-KEYWORD,duolingo
-USER-AGENT,Duolingo*
+# DOMAIN-KEYWORD,duolingo
+# USER-AGENT,Duolingo*
