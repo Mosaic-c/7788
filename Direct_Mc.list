@@ -9,44 +9,36 @@ DOMAIN,csgo.wmsj.cn
 DOMAIN,dota2.wmsj.cn
 DOMAIN,wmsjsteam.com
 
-# > Duolingo
-# USER-AGENT,Duolingo*
-# DOMAIN-KEYWORD,duolingo
-DOMAIN-SUFFIX,duolingo.cn
-DOMAIN-SUFFIX,duolingo.com
-
-# > 蓝鲸体育
+# > 体育
+# 蓝鲸体育
 DOMAIN-SUFFIX,ppxia.live
 DOMAIN-SUFFIX,lanjingtiyu.com
-
-# > 爱游体育/搜球
+# 爱游体育/搜球
 DOMAIN-SUFFIX,souqiuty.com
 DOMAIN-SUFFIX,sq33.tv
-
-# > 海星体育
+# 海星体育
 DOMAIN-SUFFIX,gxdehai.cn
 DOMAIN-SUFFIX,hwego.tv
 DOMAIN-SUFFIX,hwego.live
 
-# > MisakaF
+# > emby
+# MisakaF
 DOMAIN,emby.misakaf.org
-
-# > Mulgore
+# Mulgore
 DOMAIN,two.mulgore.net
-
-# > FreeEMBY
+# FreeEMBY
 DOMAIN,1.4545.cf
-
-# > TreeDiagram
+# TreeDiagram
 DOMAIN,789.123456.al
 
-# Downloader
-PROCESS-NAME,Weiyun
-
+# > 软件
 # 罗技Options
 PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 
+# > Tools
+# Downloader
+PROCESS-NAME,Weiyun
 # bt
 DOMAIN-KEYWORD,yunpan
 DOMAIN-KEYWORD,XLLiveUD
