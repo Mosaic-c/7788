@@ -1,8 +1,11 @@
+# > 用于Steam下载前确认网络
+DOMAIN-SUFFIX,steamserver.net
+
 # > Duolingo
 # USER-AGENT,Duolingo*
 # DOMAIN-KEYWORD,duolingo
-# DOMAIN-SUFFIX,duolingo.cn
-# DOMAIN-SUFFIX,duolingo.com
+DOMAIN-SUFFIX,duolingo.cn
+DOMAIN-SUFFIX,duolingo.com
 
 # > 蓝鲸体育
 DOMAIN-SUFFIX,ppxia.live
