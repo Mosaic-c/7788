@@ -1,5 +1,13 @@
-# > 用于Steam下载前确认网络
+# > Steam
+# USER-AGENT,Steam*
+# DOMAIN,cm.steampowered.com
+# DOMAIN-SUFFIX,steamcontent.com
+# 用于Steam下载前确认网络
 DOMAIN-SUFFIX,steamserver.net
+# 完美世界相关
+DOMAIN,csgo.wmsj.cn
+DOMAIN,dota2.wmsj.cn
+DOMAIN,wmsjsteam.com
 
 # > Duolingo
 # USER-AGENT,Duolingo*
