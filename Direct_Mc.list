@@ -21,16 +21,6 @@ DOMAIN-SUFFIX,gxdehai.cn
 DOMAIN-SUFFIX,hwego.tv
 DOMAIN-SUFFIX,hwego.live
 
-# > emby
-# MisakaF
-DOMAIN,emby.misakaf.org
-# Mulgore
-DOMAIN,two.mulgore.net
-# FreeEMBY
-DOMAIN,1.4545.cf
-# TreeDiagram
-DOMAIN,789.123456.al
-
 # > 软件
 # 罗技Options
 PROCESS-NAME,Logi Options
