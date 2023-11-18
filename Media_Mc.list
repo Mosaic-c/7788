@@ -1,4 +1,4 @@
-### adult
+# > adult
 
 DOMAIN-SUFFIX,javbus.com
 DOMAIN-SUFFIX,poweredby.jads.co
@@ -25,24 +25,28 @@ DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,kdw019.com
 DOMAIN-SUFFIX,akamai-content-network.com
 
-### media
+# > emby
 
 # MisakaF-cdn
 DOMAIN,cdn.misakaf.org
-
 # Mulgore
 DOMAIN,one.mulgore.net
-
 # Peach
 DOMAIN,jp.embymv.tk
 DOMAIN,kr.embymv.tk
 DOMAIN,embymv.tk
-
 # jugou
 DOMAIN,ju.dog
-
 # WIN-DGPJORTAEFA
 DOMAIN,emby.mius.uk
-
 # jms
 DOMAIN,cf.jmsooo.com
+#
+# MisakaF
+DOMAIN,emby.misakaf.org
+# Mulgore
+DOMAIN,two.mulgore.net
+# FreeEMBY
+DOMAIN,1.4545.cf
+# TreeDiagram
+DOMAIN,789.123456.al
