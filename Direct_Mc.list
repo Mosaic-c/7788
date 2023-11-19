@@ -1,35 +1,84 @@
+# -------------- 体育 --------------
+# > 蓝鲸体育
+DOMAIN-SUFFIX,ppxia.live
+DOMAIN-SUFFIX,lanjingtiyu.com
+# > 爱游体育/搜球
+DOMAIN-SUFFIX,souqiuty.com
+DOMAIN-SUFFIX,sq33.tv
+# > 海星体育
+DOMAIN-SUFFIX,gxdehai.cn
+DOMAIN-SUFFIX,hwego.tv
+DOMAIN-SUFFIX,hwego.live
+
+# -------------- 游戏 --------------
+# > Battlenet
+DOMAIN-SUFFIX,pdl.wow.battlenet.com.cn
+# > UBI
+DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
+DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
+# > Epic
+DOMAIN,ol.epicgames.com
+DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
+# > Microsoft
+# DOMAIN,assets1.xboxlive.cn
+# DOMAIN,assets2.xboxlive.cn
+# DOMAIN,dl.delivery.mp.microsoft.com
+# DOMAIN,tlu.dl.delivery.mp.microsoft.com
+# > SteamChina
+DOMAIN-SUFFIX,steamchina.com
+# 阿里云
+# DOMAIN,cdn-ali.content.steamchina.com
+# 腾讯云
+# DOMAIN,cdn-qc.content.steamchina.com
+# 网宿
+# DOMAIN,cdn-ws.content.steamchina.com
 # > Steam
 # USER-AGENT,Steam*
 # DOMAIN,cm.steampowered.com
 # DOMAIN-SUFFIX,steamcontent.com
-# 用于Steam下载前确认网络
+# 用于 Steam 下载前确认网络
 DOMAIN-SUFFIX,steamserver.net
 # 完美世界相关
 DOMAIN,csgo.wmsj.cn
 DOMAIN,dota2.wmsj.cn
 DOMAIN,wmsjsteam.com
+# 华为云
+DOMAIN,steampipe.steamcontent.tnkjmec.com
+# 阿里云(支持ipv6)
+DOMAIN,xz.pphimalayanrt.com
+DOMAIN,lv.queniujq.cn
+DOMAIN,alibaba.cdn.steampipe.steamcontent.com
+# 新流云(原金山云)(支持ipv6)
+DOMAIN,dl.steam.clngaa.com
+DOMAIN,dl.steam.ksyna.com
+# 白山云
+DOMAIN,st.dl.eccdnx.com
+DOMAIN,st.dl.bscstorage.net
+DOMAIN,st.dl.pinyuncloud.com
+DOMAIN,strts.baishancdnx.cn
+# 网宿
+DOMAIN,steampowered.com.8686c.com
+DOMAIN,steamstatic.com.8686c.com
+# Akamai
+DOMAIN,steambroadcast.akamaized.net
+DOMAIN,steamcdn-a.akamaihd.net
+DOMAIN,steamcommunity-a.akamaihd.net
+DOMAIN,steamstore-a.akamaihd.net
+DOMAIN,steamusercontent-a.akamaihd.net
+DOMAIN,steamuserimages-a.akamaihd.net
 
-# > 体育
-# 蓝鲸体育
-DOMAIN-SUFFIX,ppxia.live
-DOMAIN-SUFFIX,lanjingtiyu.com
-# 爱游体育/搜球
-DOMAIN-SUFFIX,souqiuty.com
-DOMAIN-SUFFIX,sq33.tv
-# 海星体育
-DOMAIN-SUFFIX,gxdehai.cn
-DOMAIN-SUFFIX,hwego.tv
-DOMAIN-SUFFIX,hwego.live
-
-# > 软件
-# 罗技Options
+# -------------- 其他 --------------
+# > software
+# 罗技 Options
 PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
-
+# Microsoft
+USER-AGENT,Microsoft%20Remote%20Desktop*
+DOMAIN-SUFFIX,msftconnecttest.com
 # > Tools
-# Downloader
+DOMAIN-SUFFIX,smtp
+URL-REGEX,(Subject|HELO|SMTP)
 PROCESS-NAME,Weiyun
-# bt
 DOMAIN-KEYWORD,yunpan
 DOMAIN-KEYWORD,XLLiveUD
 URL-REGEX,(torrent|announce.php\?passkey=|tracker|BitTorrent|bt_key|ed2k|find_node|get_peers|info_hash|magnet:|peer_id=)
