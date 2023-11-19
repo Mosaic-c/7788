@@ -34,8 +34,8 @@ DOMAIN-SUFFIX,steamchina.com
 # DOMAIN,cdn-ws.content.steamchina.com
 # > Steam
 # USER-AGENT,Steam*
-# DOMAIN,cm.steampowered.com
-# DOMAIN-SUFFIX,steamcontent.com
+DOMAIN,cm.steampowered.com
+DOMAIN-SUFFIX,steamcontent.com
 # 用于 Steam 下载前确认网络
 DOMAIN-SUFFIX,steamserver.net
 # 完美世界相关
