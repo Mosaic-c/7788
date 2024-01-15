@@ -30,25 +30,14 @@ DOMAIN,avdocker.com
 
 # > emby
 
-# MisakaF-cdn
-DOMAIN,cdn.misakaf.org
-# Mulgore
-DOMAIN,one.mulgore.net
-# Peach
-DOMAIN,jp.embymv.tk
-DOMAIN,kr.embymv.tk
-DOMAIN,embymv.tk
-# jugou
-DOMAIN,ju.dog
-# WIN-DGPJORTAEFA
-DOMAIN,emby.mius.uk
-# jms
-DOMAIN,cf.jmsooo.com
-#
 # MisakaF
 DOMAIN,emby.misakaf.org
-# Mulgore
-DOMAIN,two.mulgore.net
+# MisakaF-cdn
+DOMAIN,cdn.misakaf.org
+# Peach
+DOMAIN,embymv.tk
+# jms
+DOMAIN,cf.jmsooo.com
 # TreeDiagram
 DOMAIN,789.123456.al
 # FreeEMBY
