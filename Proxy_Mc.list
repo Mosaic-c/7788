@@ -5,7 +5,7 @@ DOMAIN-SUFFIX,sandsresortsmacao.cn
 DOMAIN-SUFFIX,cotaiticketing.com
 
 # > Duolingo
-DOMAIN-SUFFIX,duolingo.cn
-DOMAIN-SUFFIX,duolingo.com
+# DOMAIN-SUFFIX,duolingo.cn
+# DOMAIN-SUFFIX,duolingo.com
 # DOMAIN-KEYWORD,duolingo
 # USER-AGENT,Duolingo*
