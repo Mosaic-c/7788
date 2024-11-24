@@ -88,4 +88,7 @@ URL-REGEX,(Subject|HELO|SMTP)
 PROCESS-NAME,Weiyun
 DOMAIN-KEYWORD,yunpan
 DOMAIN-KEYWORD,XLLiveUD
+# DOMAIN-KEYWORD,announce,DIRECT
+# DOMAIN-KEYWORD,torrent,DIRECT
+# DOMAIN-KEYWORD,tracker,DIRECT
 URL-REGEX,(torrent|announce.php\?passkey=|tracker|BitTorrent|bt_key|ed2k|find_node|get_peers|info_hash|magnet:|peer_id=)
