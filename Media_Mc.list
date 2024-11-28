@@ -44,11 +44,13 @@ DOMAIN,cf1.jmsuper.com
 DOMAIN,789.123456.al
 # Terminus
 DOMAIN-SUFFIX,emby.wtf
-#dhcar
+# dhcar
 DOMAIN-SUFFIX,emby.p-p.men
-
+# Nebula
+DOMAIN-SUFFIX,emby.nebula-media.org
 
 # > Navidrome
 
 # iuii
 DOMAIN,music.iuii.org
+DOMAIN,nv.iuii.org
