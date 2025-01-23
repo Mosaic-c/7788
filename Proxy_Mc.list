@@ -4,6 +4,9 @@ DOMAIN-SUFFIX,sandsresortsmacao.cn
 # 金光票务
 DOMAIN-SUFFIX,cotaiticketing.com
 
+# > macked
+DOMAIN,macked.app
+
 # > Duolingo
 # DOMAIN-SUFFIX,duolingo.cn
 # DOMAIN-SUFFIX,duolingo.com
