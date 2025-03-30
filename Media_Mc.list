@@ -46,6 +46,7 @@ DOMAIN,nano.jmsuper.com
 DOMAIN,789.123456.al
 # Terminus
 DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,term.wtf
 # dhcar
 DOMAIN-SUFFIX,emby.p-p.men
 # Nebula
