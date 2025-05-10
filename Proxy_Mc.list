@@ -7,6 +7,9 @@ DOMAIN-SUFFIX,cotaiticketing.com
 # > macked
 # DOMAIN,macked.app
 
+# > iptv
+DOMAIN,iptv.cc
+
 # > Duolingo
 # DOMAIN-SUFFIX,duolingo.cn
 # DOMAIN-SUFFIX,duolingo.com
