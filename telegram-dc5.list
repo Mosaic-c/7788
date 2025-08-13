@@ -1,16 +1,25 @@
 # telegram-dc5
 
-DOMAIN-SUFFIX,comments.app // @CommentsBot
-DOMAIN-SUFFIX,graph.org
 DOMAIN-SUFFIX,legra.ph
+DOMAIN-SUFFIX,cdn-telegram.org
+DOMAIN-SUFFIX,comments.app // @CommentsBot
+DOMAIN-SUFFIX,contest.com
+DOMAIN-SUFFIX,fragment.com
+DOMAIN-SUFFIX,graph.org
+DOMAIN-SUFFIX,quiz.directory
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,telega.one
 DOMAIN-SUFFIX,telegra.ph // Telegraph
 DOMAIN-SUFFIX,telegram-cdn.org
+DOMAIN-SUFFIX,telegram.dog
 DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,telegram.space
 DOMAIN-SUFFIX,telesco.pe // Telescope
+DOMAIN-SUFFIX,tg.dev
 DOMAIN-SUFFIX,tx.me
+DOMAIN-SUFFIX,usercontent.dev
 IP-ASN,62014,no-resolve
 IP-CIDR,91.108.16.0/22,no-resolve
 IP-CIDR,91.108.56.0/23,no-resolve
