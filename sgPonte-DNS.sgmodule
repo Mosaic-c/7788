@@ -10,6 +10,7 @@
 
 # > Surge Ponte
 
+mmn.sg = 192.168.31.11
 bamboo.sg = 192.168.31.100
 winser2016.sg = 192.168.31.171
 winser2019.sg = 192.168.31.173
