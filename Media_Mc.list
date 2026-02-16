@@ -51,6 +51,11 @@ DOMAIN-SUFFIX,term.wtf
 DOMAIN-SUFFIX,emby.p-p.men
 # Nebula
 DOMAIN-SUFFIX,nebula-media.org
+# HG
+DOMAIN,emby.dnscf.dpdns.org
+# UHG
+DOMAIN,v1.uhdnow.com
+
 
 # > Navidrome
 
