@@ -3,3 +3,6 @@
 DOMAIN-SUFFIX,facetime.net
 IP-CIDR,17.242.0.0/15,no-resolve
 IP-CIDR,17.252.160.0/19,no-resolve
+
+DOMAIN,init.ess.apple.com
+DOMAIN,init-p01md.apple.com
