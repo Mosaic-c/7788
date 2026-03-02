@@ -1,0 +1,18 @@
+#!name=🌐 SurgePonte
+#!desc=🌐 SurgePonte
+#!category=Private
+
+
+[General]
+# > Always Real IP Hosts
+always-real-ip = mmn.sg, bamboo.sg, winser2016.sg, winser2019.sg, winser2022.sg, winser2022a.sg
+
+
+[Host]
+# > Custom DNS Mapping
+mmn.sg = 192.168.31.11
+bamboo.sg = 192.168.31.100
+winser2016.sg = 192.168.31.171
+winser2019.sg = 192.168.31.173
+winser2022.sg = 192.168.31.172
+winser2022a.sg = 192.168.31.174
