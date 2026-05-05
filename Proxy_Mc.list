@@ -10,8 +10,12 @@ DOMAIN-SUFFIX,cotaiticketing.com
 # > iptv
 DOMAIN,iptv.cc
 
+# > Apple.push
+DOMAIN-SUFFIX,push.apple.com
+
 # > Duolingo
 # DOMAIN-SUFFIX,duolingo.cn
 # DOMAIN-SUFFIX,duolingo.com
 # DOMAIN-KEYWORD,duolingo
 # USER-AGENT,Duolingo*
+
